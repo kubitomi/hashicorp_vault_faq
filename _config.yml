@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: HashiCorp Vault Gyakori kérdések
+description: Ez a dokumentum olyan gyakori kérdéseket tartalmaz, ami a megoldás elsajátítása közben gyakorta felmerül
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://github.com/kubitomi/hashicorp_vault_faq
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
